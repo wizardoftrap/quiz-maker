@@ -1,0 +1,11 @@
+unstructured
+tiktoken
+pinecone
+pypdf
+groq
+langchain
+pandas
+numpy
+python-dotenv
+streamlit
+requests
