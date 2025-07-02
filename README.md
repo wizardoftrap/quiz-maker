@@ -29,6 +29,9 @@ This is a robust Streamlit app for student quizzes, powered by Gemini Flash 2.5 
 
 5. **Upload teacher notes:**
    - Run the `upload_notes.py` script to upload and embed PDF notes.
+      ```
+      python upload_notes.py BasicsOfStatistics.pdf
+      ```
 
 6. **Run the app:**
    ```
