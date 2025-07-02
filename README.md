@@ -52,3 +52,13 @@ This is a robust Streamlit app for student quizzes, powered by Gemini Flash 2.5 
 - Python 3.8+
 - See `requirements.txt` for all dependencies.
 
+## Screenshots
+
+Below are screenshots of the main app screens:
+
+| Login Page | Dashboard | Quiz | Result |
+|------------|-----------|------|--------|
+| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) | ![Quiz](screenshots/quiz.png) | ![Result](screenshots/result.png) |
+
+> Place your screenshots in a `screenshots/` folder with the above filenames for them to display here.
+
