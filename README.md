@@ -60,5 +60,4 @@ Below are screenshots of the main app screens:
 |------------|-----------|------|--------|
 | ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) | ![Quiz](screenshots/quiz.png) | ![Result](screenshots/result.png) |
 
-> Place your screenshots in a `screenshots/` folder with the above filenames for them to display here.
 
