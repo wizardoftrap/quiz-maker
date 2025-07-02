@@ -58,8 +58,11 @@ This is a robust Streamlit app for student quizzes, powered by Gemini Flash 2.5 
 
 Below are screenshots of the main app screens:
 
-| Login Page | Dashboard | Quiz | Result |
-|------------|-----------|------|--------|
-| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) | ![Quiz](screenshots/quiz.png) | ![Result](screenshots/result.png) |
+| Interface   | Screenshot                        |
+|-------------|-----------------------------------|
+| Login Page  | ![Login](screenshots/login.png)   |
+| Dashboard   | ![Dashboard](screenshots/dashboard.png) |
+| Quiz        | ![Quiz](screenshots/quiz.png)     |
+| Result      | ![Result](screenshots/result.png) |
 
 
