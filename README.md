@@ -47,6 +47,8 @@ This is a robust Streamlit app for student quizzes, powered by Gemini Flash 2.5 
 ## Notes
 - Quiz attempt tracking is per session.
 - For persistent tracking, integrate a database and check attempts by roll number.
+- Improve backend system and creating teacher interface for better usability.
+- Add database to store student information on teacher side. 
 
 ## Requirements
 - Python 3.8+
